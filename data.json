@@ -1,0 +1,50 @@
+{
+  "career":{
+    "info":"an occupation undertaken for a significant period of a person's life and with opportunities for progress."
+  },
+"education":[
+  {
+    "degree":"s.s.c",
+    "school":"crescent",
+    "data":["2013","93"]
+  },
+  {
+    "degree":"intermediate",
+    "school":"narayana",
+    "data":["2013-15","98"]
+
+  },
+  {
+    "degree":"B.Tech(C.S.E)",
+    "school":"GPCET",
+    "data":["2015-19","78"]
+
+  }
+],
+"skills":[
+{
+  "name":"languages",
+  "info":["R","C#","JAVA","PYTHON","C++","PHP"]
+},
+{
+  "name":"operating sysyem",
+  "info":["win-10","fedro","redHat","ubuntu"]
+},
+{
+  "name":"Data Bases",
+  "info":["MYSQL","mangoDB","ORACLE","PHD"]
+},
+{
+  "name":"Web Technologies",
+  "info":["HTML","JAVASCRIPT","CSS"]
+},
+{
+  "name":"FrameWorks",
+  "info":[".Net","Bootstrap","CodeIgniter"]
+},
+{
+  "name":"Libraries",
+  "info":["Jquery"]
+}
+]
+}
